@@ -21,5 +21,5 @@ public class Car {
 	public void setWeight(double weight) {
 		this.weight = weight;
 	}
-	//Commment  Testing
+	//Comment  Testing
 }
